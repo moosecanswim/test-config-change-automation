@@ -2,12 +2,12 @@
     "plugins": ["hints", "tabs", "page-ref"],
     "variables":{
         "helm_versions":{
-            "fabric": "1.1.1",
-            "sense": "1.1.1",
-            "edge": "2.2.2",
-            "secrets": "3.3.0",
-            "spire_agent": "9.9.5",
-            "spire_server": "23.3.5"
+            "fabric": "3.0.9",
+            "sense": "3.0.7",
+            "edge": "3.0.3",
+            "secrets": "2.3.0",
+            "spire_agent": "2.2.5",
+            "spire_server": "2.2.5"
         }
     }
 }
